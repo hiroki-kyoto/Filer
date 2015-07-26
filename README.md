@@ -10,6 +10,6 @@ Filer is a project coded with Java Weblaf  UI framework, and using HDF5 as the d
 
 ***2.If you're using standalone Eclipse IDE to build project, then you're supposed to add jars/log4j*.jar to project external jar library, if not, skip this and go directly to step 3.***
 
-*** 3.add jars/hdf*.jar to external jar library in Eclipse, and then build it.***
+***3.add jars/hdf*.jar to external jar library in Eclipse, and then build it.***
 
 
